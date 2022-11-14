@@ -1,4 +1,4 @@
-firstNumber = int(input())
-secondNumber = int(input())
-result = firstNumber + secondNumber
+first_number = int(input())
+second_number = int(input())
+result = first_number + second_number
 print("SOMA =", result)
